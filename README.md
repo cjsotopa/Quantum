@@ -1,2 +1,2 @@
-# quantum
+# Quantum
 Quantum Computing Projects
